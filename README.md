@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L0M6zXg7lWQK1eDbD4/giphy.gif" width="600">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeG5peGY5NDdzZGtsOTQ1cGJ4NzFrcndzN2V1YjFlMDA4NDBydnA4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nc2slkPLPdpmWeCUZc/giphy.gif" width="600">
 </p>
 
 <h1 align="center">Olá, eu sou a Thayrine Souza 👋</h1>
@@ -29,7 +29,7 @@ Atuo na gestão completa das operações internas do e-commerce, garantindo **ef
 
 ## 💼 Portfólio
 
-### 🔹 **Rastreador de Hábitos Inteligente**
+### 🔹 **Rastreador de Hábitos Inteligente**  
 Aplicação em Python que cria um perfil do usuário e sugere hábitos personalizados com base no objetivo, personalidade e rotina.  
 👉 **Repositório:** [clicar aqui](https://github.com/tfsouza/rastreador-habitos-inteligente)
 
