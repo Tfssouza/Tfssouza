@@ -1,29 +1,20 @@
-# 👋 Olá, eu sou a Thayrine Souza
+👋 Hi, I'm Thayrine Souza
 
-QA Analyst com mais de 5 anos de experiência em testes manuais e automatizados, testes de API e ambientes ágeis, com foco em qualidade, estabilidade e melhoria contínua.
+QA Analyst with over 5 years of experience in manual and automated testing, API testing, and Agile environments, focused on quality, stability, and continuous improvement.
 
----
+💼 About Me  
+I am a Software Quality professional with solid experience in large-scale projects, working from requirements analysis to test automation and defect management. I collaborate closely with development teams and always aim for high-quality results.
 
-## 💼 Sobre mim
+🧪 Skills & Expertise  
+- Functional, Regression, Smoke, and Exploratory Testing  
+- Test Case Design  
+- API Testing (REST)  
+- End-to-End Test Automation  
+- Data Validation (SQL)  
+- Bug Tracking and Management  
+- Agile Methodologies (Scrum)
 
-Sou profissional da área de Qualidade de Software, com sólida experiência em projetos de grande escala, atuando desde a análise de requisitos até a automação de testes e gestão de defeitos. Trabalho de forma colaborativa com equipas de desenvolvimento, sempre orientada a resultados.
-
----
-
-## 🧪 Especialidades
-
-- Testes Funcionais, Regressão, Smoke e Exploratórios  
-- Criação de Casos de Teste  
-- Testes de API (REST)  
-- Automação de Testes E2E  
-- Validação de Dados (SQL)  
-- Gestão de Bugs  
-- Metodologias Ágeis (Scrum)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
+🛠️ Tools & Technologies  
 - Playwright  
 - Cypress  
 - Selenium  
@@ -33,46 +24,28 @@ Sou profissional da área de Qualidade de Software, com sólida experiência em 
 - Azure DevOps  
 - Git & GitHub  
 
----
+📌 Professional Experience  
 
-## 📌 Experiência Profissional
+🛍️ Sporting Clube de Portugal — E-commerce Operations  
+2025  
 
-### 🛍️ Sporting Clube de Portugal — E-commerce Operations
-2025
+🏦 C6 Bank — QA Tester (Remote)  
+2021 – 2025  
 
-### 🏦 C6 Bank — QA Tester (Remoto)
-2021 – 2025
+📡 Claro Brasil — QA Analyst (Remote)  
+2022 – 2023  
 
-### 📡 Claro Brasil — QA Analyst (Remoto)
-2022 – 2023
+🏗️ Construtora União — QA Analyst  
+2020 – 2021  
 
-### 🏗️ Construtora União — QA Analyst
-2020 – 2021
+📂 Projects  
 
----
+🧪 QA Automation with Playwright  
+End-to-end test automation project using Playwright, covering positive and negative login scenarios, execution reports, and best practices.
 
-## 📂 Projetos
+🔗 Repository: https://github.com/Tfssouza/qa-automation-playwright
 
-🚧 Em construção — novos projetos em QA, automação e testes de API serão adicionados em breve.
-
----
-
-## 📫 Contacto
+📫 Contact  
 
 📧 Email: thayrinessouza28@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/thay-souza-6a3089341
-
-<!--
-**Tfssouza/Tfssouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
