@@ -1,11 +1,18 @@
-👋 Hi, I'm Thayrine Souza
+# 👋 Hi, I'm Thayrine Souza
 
 QA Analyst with over 5 years of experience in manual and automated testing, API testing, and Agile environments, focused on quality, stability, and continuous improvement.
 
-💼 About Me  
-I am a Software Quality professional with solid experience in large-scale projects, working from requirements analysis to test automation and defect management. I collaborate closely with development teams and always aim for high-quality results.
+---
 
-🧪 Skills & Expertise  
+## 💼 About Me
+
+I am a Software Quality professional with solid experience in large-scale projects, working from requirements analysis to test automation and defect management.  
+I collaborate closely with development teams and always aim for high-quality results.
+
+---
+
+## 🧪 Skills & Expertise
+
 - Functional, Regression, Smoke, and Exploratory Testing  
 - Test Case Design  
 - API Testing (REST)  
@@ -14,7 +21,10 @@ I am a Software Quality professional with solid experience in large-scale projec
 - Bug Tracking and Management  
 - Agile Methodologies (Scrum)
 
-🛠️ Tools & Technologies  
+---
+
+## 🛠️ Tools & Technologies
+
 - Playwright  
 - Cypress  
 - Selenium  
@@ -24,28 +34,35 @@ I am a Software Quality professional with solid experience in large-scale projec
 - Azure DevOps  
 - Git & GitHub  
 
-📌 Professional Experience  
+---
 
-🛍️ Sporting Clube de Portugal — E-commerce Operations  
-2025  
+## 📌 Professional Experience
 
-🏦 C6 Bank — QA Tester (Remote)  
-2021 – 2025  
+### 🛍️ Sporting Clube de Portugal — E-commerce Operations  
+**2025**
 
-📡 Claro Brasil — QA Analyst (Remote)  
-2022 – 2023  
+### 🏦 C6 Bank — QA Tester (Remote)  
+**2021 – 2025**
 
-🏗️ Construtora União — QA Analyst  
-2020 – 2021  
+### 📡 Claro Brasil — QA Analyst (Remote)  
+**2022 – 2023**
 
-📂 Projects  
+### 🏗️ Construtora União — QA Analyst  
+**2020 – 2021**
 
-🧪 QA Automation with Playwright  
+---
+
+## 📂 Projects
+
+### 🚀 QA Automation with Playwright  
 End-to-end test automation project using Playwright, covering positive and negative login scenarios, execution reports, and best practices.
 
-🔗 Repository: https://github.com/Tfssouza/qa-automation-playwright
+🔗 Repository:  
+https://github.com/Tfssouza/qa-automation-playwright
 
-📫 Contact  
+---
+
+## 📫 Contact
 
 📧 Email: thayrinessouza28@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/thay-souza-6a3089341
