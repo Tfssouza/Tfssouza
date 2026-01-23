@@ -37,14 +37,14 @@ Sou profissional da área de Qualidade de Software, com sólida experiência em 
 
 ## 📌 Experiência Profissional
 
+### 🛍️ Sporting Clube de Portugal — E-commerce Operations
+2025
+
 ### 🏦 C6 Bank — QA Tester (Remoto)
 2021 – 2025
 
 ### 📡 Claro Brasil — QA Analyst (Remoto)
 2022 – 2023
-
-### 🛍️ Sporting Clube de Portugal — E-commerce Operations
-2025
 
 ### 🏗️ Construtora União — QA Analyst
 2020 – 2021
