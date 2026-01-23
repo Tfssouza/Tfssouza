@@ -54,11 +54,13 @@ I collaborate closely with development teams and always aim for high-quality res
 
 ## 📂 Projects
 
-### 🚀 QA Automation with Playwright  
-End-to-end test automation project using Playwright, covering positive and negative login scenarios, execution reports, and best practices.
+### 🚀 QA Automation Engineer | Playwright
 
-🔗 Repository:  
-https://github.com/Tfssouza/qa-automation-playwright
+End-to-end test automation with JavaScript, CI/CD and GitHub Actions.
+
+📌 Main Project:
+🔗 https://github.com/Tfssouza/qa-automation-playwright
+
 
 ---
 
