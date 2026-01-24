@@ -20,6 +20,7 @@ I collaborate closely with development teams and always aim for high-quality res
 - Data Validation (SQL)  
 - Bug Tracking and Management  
 - Agile Methodologies (Scrum)
+- CI/CD (GitLab Ci, Jenkins)
 
 ---
 
@@ -44,7 +45,7 @@ I collaborate closely with development teams and always aim for high-quality res
 ### 🏦 C6 Bank — QA Tester (Remote)  
 **2021 – 2025**
 
-### 📡 Claro Brasil — QA Analyst (Remote)  
+### 📡 Claro Brasil — QA Analyst + Backend Developer(Remote)  
 **2022 – 2023**
 
 ### 🏗️ Construtora União — QA Analyst  
