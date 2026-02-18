@@ -39,8 +39,8 @@ I collaborate closely with development teams and always aim for high-quality res
 
 ## 📌 Professional Experience
 
-### 🛍️ Sporting Clube de Portugal — E-commerce Operations  
-**2025**
+### 🛍️Mastercard — QA Analyst  
+**2025 - 2026**
 
 ### 🏦 C6 Bank — QA Tester (Remote)  
 **2021 – 2025**
