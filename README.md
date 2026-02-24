@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Thayrine Souza  
 
-[![CI](https://github.com/Tfssouza/quality-gate-lab/actions/workflows/playwright.yml/badge.svg)](https://github.com/Tfssouza/quality-gate-lab/actions)
+[![Quality Gate (Playwright)](https://github.com/Tfssouza/quality-gate-lab/actions/workflows/playwright.yml/badge.svg)](https://github.com/Tfssouza/quality-gate-lab/actions)
+[![Python Automation CI](https://github.com/Tfssouza/python-test-automation-quality-gate/actions/workflows/ci.yml/badge.svg)](https://github.com/Tfssouza/python-test-automation-quality-gate/actions)
 
 Senior QA Analyst | Test Strategy | Automation | API | CI/CD  
 
-Quality professional with 5+ years of experience ensuring product stability, risk mitigation, and scalable testing processes across complex systems.  
+Quality professional with 5+ years of experience ensuring product stability, risk mitigation, and scalable testing processes across complex systems.
 
 Focused on quality governance, automation strategy, and continuous improvement within Agile environments.
 
@@ -26,9 +27,9 @@ My approach includes:
 
 ---
 
-## 🧪 Featured Project
+## 🚀 Featured Projects
 
-### 🚀 Quality Gate Lab — Product Validation Simulation
+### 🧪 Quality Gate Lab — Product Validation Simulation
 
 A complete quality gate implementation simulating a real-world product validation pipeline.
 
@@ -48,9 +49,28 @@ https://github.com/Tfssouza/quality-gate-lab
 
 ---
 
+### 🐍 Python Test Automation Quality Gate
+
+Automation framework demonstrating modern QA engineering practices using Python.
+
+**Highlights:**
+
+- Data-driven testing architecture
+- Custom Quality Gate validation
+- API automation with Pytest + Requests
+- Automated reporting
+- CI/CD pipeline with GitHub Actions
+- Automated build validation on every push
+
+🔗 Repository:  
+https://github.com/Tfssouza/python-test-automation-quality-gate
+
+---
+
 ## 🛠 Technical Stack
 
 - Playwright  
+- Python (Pytest, Requests)  
 - Cypress  
 - Selenium  
 - REST API Testing  
