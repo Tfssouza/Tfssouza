@@ -1,41 +1,76 @@
 # Thayrine Souza
 
-**QA Automation Engineer | SDET | Web Accessibility | E2E, API & Mobile Testing**
+### QA Automation Engineer | SDET | Web Accessibility
 
-QA professional with around 7 years of experience in web, API and Android/iOS testing, including test automation and web accessibility.
-I work with Playwright, Cypress and Selenium, supported by JavaScript, TypeScript and Python. Full-Stack Engineer training complements my testing experience with front-end, backend and database knowledge.
+![QA Automation](https://img.shields.io/badge/QA-Automation-1F6FEB?style=flat-square)
+![Playwright E2E](https://img.shields.io/badge/Playwright-E2E-25633B?style=flat-square)
+![Web Accessibility WCAG](https://img.shields.io/badge/Web_Accessibility-WCAG-6F42C1?style=flat-square)
+![CI GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-334155?style=flat-square)
 
-Lisbon, Portugal · English: B2
+QA professional with around 7 years of experience in web, API, mobile and accessibility testing.
+
+Focused on automation, test architecture, API validation, cross-browser testing and quality engineering. Full-Stack Engineer training complements my QA experience.
+
+📍 Lisbon, Portugal  
+🌐 English B2
+
+---
 
 ## Featured Projects
 
-### [Quality Gate Lab — Booking Studio](https://github.com/Tfssouza/quality-gate-lab)
+### 🚀 Quality Gate Lab — Booking Studio
 
-A booking application built with React/TypeScript, a Node.js API and PostgreSQL, with executable API and E2E tests.
+[View repository](https://github.com/Tfssouza/quality-gate-lab) · [CI runs](https://github.com/Tfssouza/quality-gate-lab/actions/workflows/playwright.yml)
 
-- Covers authentication, reservations, cancellations, access control and concurrent booking attempts.
-- Playwright tests run across Chromium, Firefox and WebKit.
-- GitHub Actions validates API tests against PostgreSQL, cross-browser E2E tests and a Docker Compose smoke test.
+[![Booking quality gate](https://github.com/Tfssouza/quality-gate-lab/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/Tfssouza/quality-gate-lab/actions/workflows/playwright.yml)
 
-### [Python Test Automation Quality Gate](https://github.com/Tfssouza/python-test-automation-quality-gate)
+Booking platform demonstrating an end-to-end quality engineering workflow.
 
-A small API testing project using Python, pytest and Requests against JSONPlaceholder. Includes JSON-driven test cases, JSON reporting, a pass-rate quality gate and a GitHub Actions workflow.
+- **Application:** React + TypeScript, Node.js API and PostgreSQL.
+- **Coverage:** authentication, reservations, cancellations, access control and concurrent booking protection.
+- **Automation:** API and E2E tests with Playwright across Chromium, Firefox and WebKit.
+- **Delivery:** GitHub Actions CI with PostgreSQL validation and a Docker Compose smoke test.
 
-## Technical Stack
+---
 
-| Area | Technologies & tools |
-| --- | --- |
-| Test Automation | Playwright, Cypress, Selenium · E2E testing |
-| API & Backend Testing | REST APIs, Postman, Swagger, pytest, Requests, SQL |
-| Programming | JavaScript, TypeScript, Python, Node.js |
-| CI/CD & Tools | GitHub Actions, Git, Docker |
-| Accessibility | WCAG, NVDA, WAVE · automated and manual checks |
-| Mobile | Android/iOS testing, BrowserStack |
+### 🐍 Python Test Automation Quality Gate
 
-## Currently Working On
+[View repository](https://github.com/Tfssouza/python-test-automation-quality-gate) · [CI runs](https://github.com/Tfssouza/python-test-automation-quality-gate/actions/workflows/ci.yml)
 
-Developing a private accessibility audit support tool using Playwright and JavaScript.
+[![Python Test Automation CI](https://github.com/Tfssouza/python-test-automation-quality-gate/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/Tfssouza/python-test-automation-quality-gate/actions/workflows/ci.yml)
+
+A small API automation project using **Python, pytest and Requests** against JSONPlaceholder. JSON-driven test cases, JSON reporting and a pass-rate quality gate run through GitHub Actions.
+
+---
+
+## Tech Stack
+
+**Automation**  
+`Playwright` `Cypress` `Selenium`
+
+**API & Backend Testing**  
+`Postman` `Swagger` `pytest` `Requests` `SQL`
+
+**Programming**  
+`JavaScript` `TypeScript` `Python` `Node.js`
+
+**CI/CD & Tools**  
+`GitHub Actions` `Docker` `Git`
+
+**Accessibility**  
+`WCAG` `NVDA` `WAVE`
+
+**Mobile**  
+`Android` `iOS` `BrowserStack`
+
+---
+
+## Currently Building
+
+🔐 Developing a private accessibility audit support tool using Playwright and JavaScript.
+
+---
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/thayrine-souza-6a3089341/) · [GitHub](https://github.com/Tfssouza) · Lisbon, Portugal
+[LinkedIn](https://www.linkedin.com/in/thayrine-souza-6a3089341/) · [GitHub](https://github.com/Tfssouza)
