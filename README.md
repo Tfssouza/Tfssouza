@@ -67,7 +67,7 @@ A small API automation project using **Python, pytest and Requests** against JSO
 
 ## Currently Building
 
-🔐 Developing a private accessibility audit support tool using Playwright and JavaScript.
+🔐 **Building a private accessibility audit support tool with Playwright and JavaScript, focused on supporting human validation workflows.**
 
 ---
 
